@@ -1,8 +1,19 @@
 h1 {
     text-align: center;
+    font-size: 2.5rem;
 }
 
 li {
     text-align: center;
     list-style: none;
+    padding: .5rem 0;
+    font-size: 1.2rem;
+}
+
+ul {
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
 }
